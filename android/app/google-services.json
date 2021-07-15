@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863187267742",
+    "project_id": "work-bbe54",
+    "storage_bucket": "work-bbe54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863187267742:android:a7c7362db5b5f260964b8f",
+        "android_client_info": {
+          "package_name": "com.work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863187267742-00l35iut7ost1cd0h8tmncabb7g2vmle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.work",
+            "certificate_hash": "6207bae1b06e9ba069ed822417a8034415fa8c41"
+          }
+        },
+        {
+          "client_id": "863187267742-1s9jbu54pkik8dvm160da8eqctkgg065.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzGx8wV3yVlXWbfYzEI-ENhd-03tYjgkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863187267742-1s9jbu54pkik8dvm160da8eqctkgg065.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
